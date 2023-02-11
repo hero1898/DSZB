@@ -228,5 +228,3 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="芒果独播" tvg-name="芒果独播" group-title="广东电视 ipv6" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="数字",芒果独播
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" group-title="广东电视 ipv6" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="数字",南国都市
-http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
