@@ -32,6 +32,10 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221226230/index.m3u8
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台卫视",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="j2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/j2.png" group-title="港台卫视",J2
+http://120.84.96.42:808/hls/86/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="j2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/j2.png" group-title="港台卫视",J2
+http://120.84.96.46:808/hls/86/index.m3u8
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
