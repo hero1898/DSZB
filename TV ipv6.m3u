@@ -39,6 +39,7 @@ CCTV-4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/i
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 
 深圳电视频道,#genre#
+深圳卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225598/index.m3u8?fmt=ts2hls
 深圳都市频道,https://sztv-live.cutv.com/ZwxzUXr/500/72uZnx0.m3u8?sign=08ba07232955271c0049f2f6f88df1da&t=cf24068a
 深圳财经生活频道,https://sztv-live.cutv.com/3vlcoxP/500/na3nl0o.m3u8?sign=1168e5883114d5fa52476484020fc4fa&t=cf240bf5
 深圳体育健康频道,https://sztv-live.cutv.com/sztvtyjk/500/68tsn000.m3u8?sign=4a9dc92b6b84f8fbb0911c4caba461d0&t=cf240c86
