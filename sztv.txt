@@ -1,1 +1,7 @@
 深圳都市频道,https://sztv-live.cutv.com/ZwxzUXr/500/72uZnx0.m3u8?sign=08ba07232955271c0049f2f6f88df1da&t=cf24068a
+深圳财经生活频道,https://sztv-live.cutv.com/3vlcoxP/500/na3nl0o.m3u8?sign=1168e5883114d5fa52476484020fc4fa&t=cf240bf5
+深圳体育健康频道,https://sztv-live.cutv.com/sztvtyjk/500/68tsn000.m3u8?sign=4a9dc92b6b84f8fbb0911c4caba461d0&t=cf240c86
+深圳电视剧频道,https://sztv-live.cutv.com/4azbkoY/500/4r2nz0k.m3u8?sign=0f0c5c6a7f9ce330aca46fcf3b10d144&t=cf240cbb
+深圳公共频道,https://sztv-live.cutv.com/2q76Sw2/500/33k2n70.m3u8?sign=8b4fac0024c3e991d5d38b3ca8b0910d&t=cf240dba
+深圳少儿频道,https://sztv-live.cutv.com/1SIQj6s/500/w3r1nI0.m3u8?sign=028efa45b693dffe0687ce250ae4e016&t=cf240e0d
+深圳娱乐频道,https://sztv-live.cutv.com/1q4iPng/500/52i1n20.m3u8?sign=8aae5480107eab6361af749c5324bbf6&t=cf240e77
