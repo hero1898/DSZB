@@ -117,7 +117,7 @@ http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227242/index
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226428/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视IPV6",海南卫视
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226417/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+#EXTINF:-1,tvg-id="" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视IPV6",云南卫视
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226427/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视IPV6",贵州卫视
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226460/index.m3u8?servicetype=1
