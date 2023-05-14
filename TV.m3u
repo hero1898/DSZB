@@ -21,16 +21,15 @@ CCTV17,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/322122647
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
 无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&$1920x1080
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-🎬体育频道,#genre#
+🔆体育频道,#genre#
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 五星体育,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
@@ -62,7 +61,7 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 海南卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226417/index.m3u8?servicetype=1
 贵州卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226460/index.m3u8?servicetype=1
 陕西卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-📺其他频道,#genre#
+🎬其他频道,#genre#
 金鹰纪实,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226349/index.m3u8?servicetype=1
 金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226413/index.m3u8?servicetype=1
 求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
