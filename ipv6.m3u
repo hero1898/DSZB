@@ -35,6 +35,8 @@ http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226478/index
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视IPV6",CCTV17
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226473/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://epg.112114.xyz/logo/CCTV兵器科技.png" group-title="央视IPV6",CCTV兵器科技
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1,tvg-id="" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文 
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -43,7 +45,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF:-1,tvg-id="" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港 
 http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台 
-http://162.19.247.76:22222/live/tvbfc/index.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻 
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2 
@@ -54,8 +56,6 @@ http://162.19.247.76:22222/live/taishi/index.m3u8
 http://162.19.247.76:22222/live/huashi/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视 
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐.png" group-title="港澳台",中天娱乐 
-http://162.19.247.76:22222/live/ztyl/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="港澳台",澳门莲花 
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&$1920x1080
 #EXTINF:-1,tvg-id="" tvg-name="东森电影" tvg-logo="https://epg.112114.xyz/logo/东森电影.png" group-title="港澳台",东森电影 
@@ -71,6 +71,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="体育",魅力足球 
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226337/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="体育",风云足球
+http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="体育",快乐垂钓 
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226326/index.m3u8?servicetype=1
 
@@ -141,3 +143,9 @@ http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226323/index
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226694/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他频道",动漫秀场
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226325/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他频道",CHC动作电影
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他频道",CHC家庭影院
+http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他频道",CHC高清电影
+http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
