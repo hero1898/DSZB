@@ -57,10 +57,13 @@ CCTV17,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/322122647
 CCTV-兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 💝港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
 翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
@@ -107,7 +110,7 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 云南卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226427/index.m3u8?servicetype=1
 贵州卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226460/index.m3u8?servicetype=1
 陕西卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-🎬湖南频道,#genre#
+⚛️湖南频道,#genre#
 湖南经视,http://api2.52tb.xyz/info?id=566&token=20230218htjgzi
 湖南都市,http://api2.52tb.xyz/info?id=567&token=20230218htjgzi
 湖南公共,http://api2.52tb.xyz/info?id=561&token=20230218htjgzi
@@ -118,7 +121,7 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226413/index.m3u8?servicetype=1
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-🎬其他频道,#genre#
+🎬特色频道,#genre#
 求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
 求索科学,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226115/index.m3u8?servicetype=1
 求索动物,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226118/index.m3u8?servicetype=1
@@ -127,6 +130,8 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 欢笑剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226323/index.m3u8?servicetype=1
 都市剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226694/index.m3u8?servicetype=1
 动漫秀场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226325/index.m3u8?servicetype=1
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
