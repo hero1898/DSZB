@@ -19,6 +19,16 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226461/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226303/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
+http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226468/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV6",CCTV4
+http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226656/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视IPV6",CCTV5
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视IPV6",CCTV5
@@ -93,6 +103,8 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226475/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV6",CCTV15
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226478/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV6",CCTV15
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV6",CCTV15
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV6",CCTV15
