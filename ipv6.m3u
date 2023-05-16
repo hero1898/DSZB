@@ -53,7 +53,7 @@ http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="亚洲新闻" tvg-logo="https://epg.112114.xyz/logo/亚洲新闻.png" group-title="港澳台",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1,tvg-id="" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2 
-http://r.jdshipin.com/Nr5jq
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-35108765-2fbe-49af-ab38-a9985fc82709.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视 
 http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视 
