@@ -70,7 +70,6 @@ CCTV-兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰资讯,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
-
 星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
@@ -127,17 +126,6 @@ J2,http://120.84.96.89:808/hls/86/index.m3u8
 贵州卫视,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226460/index.m3u8?servicetype=1
 陕西卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 ⚛️地方频道,#genre#
-深圳都市,http://ct.whosayssowhat.top:4022/udp/239.77.1.176:5146
-深圳电视剧,http://ct.whosayssowhat.top:4022/udp/239.77.1.125:5146
-深圳公共,http://ct.whosayssowhat.top:4022/udp/239.77.1.178:5146
-深圳体育健康,http://ct.whosayssowhat.top:4022/udp/239.77.1.140:5146
-深圳娱乐,http://ct.whosayssowhat.top:4022/udp/239.77.1.243:5146
-深圳财经生活,http://ct.whosayssowhat.top:4022/udp/239.77.1.242:5146
-深圳少儿,http://ct.whosayssowhat.top:4022/udp/239.77.1.244:5146
-深圳宝安,http://ct.whosayssowhat.top:4022/udp/239.77.1.67:5146
-深圳龙岗,http://ct.whosayssowhat.top:4022/udp/239.77.1.223:5146
-深圳东部,http://ct.whosayssowhat.top:4022/udp/239.77.1.224:5146
-深圳众创TV,http://ct.whosayssowhat.top:4022/udp/239.77.1.247:5146
 湖南经视,http://api2.52tb.xyz/info?id=566&token=20230218htjgzi
 湖南都市,http://api2.52tb.xyz/info?id=567&token=20230218htjgzi
 湖南公共,http://api2.52tb.xyz/info?id=561&token=20230218htjgzi
