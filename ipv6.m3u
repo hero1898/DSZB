@@ -63,7 +63,7 @@ http://107.151.203.111:2209/135/hk.php?id=amlh
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="体育",五星体育 
 http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="体育"，劲爆体育
+#EXTINF:-1,tvg-id="" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="体育",劲爆体育
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jinbaotiyuHD_7000
 #EXTINF:-1,tvg-id="" tvg-name="精品体育" tvg-logo="https://epg.112114.xyz/logo/精品体育.png" group-title="体育",精品体育 
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
