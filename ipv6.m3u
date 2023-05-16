@@ -47,7 +47,7 @@ http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港澳台",星空卫视 
 http://113.117.74.22:8081/hls/87/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台 
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
+http://r.jdshipin.com/Nr5jq
 #EXTINF:-1,tvg-id="" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="港澳台",无线新闻 
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="亚洲新闻" tvg-logo="https://epg.112114.xyz/logo/亚洲新闻.png" group-title="港澳台",亚洲新闻
