@@ -22,10 +22,12 @@ CCTV5,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226305/index.m3u8?servicetype=1
+CCTV5,http://[2409:8087:4402:20:1:1216:401:35]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8?世界杯WorldCup
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5+,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226477/index.m3u8?servicetype=1
+http://[2409:8087:4402:20:1:1216:401:12]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8?世界杯WorldCup
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
@@ -72,6 +74,7 @@ CCTV15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV16,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV16,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?世界杯WorldCup
 CCTV16,http://39.135.55.72:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
@@ -79,6 +82,8 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226473/index.m3u8?servicetype=1
 CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
 CCTV-兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-兵器科技,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+CCTV-兵器科技,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2012513403.m3u8
 💝港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -95,9 +100,9 @@ CCTV-兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990
 明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
 VIUTV,http://r.jdshipin.com/vSJvl
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-J2,http://r.jdshipin.com/Nr5jq
-J2,http://120.84.96.33:808/hls/86/index.m3u8
-J2,http://120.84.96.89:808/hls/86/index.m3u8
+TVB J2,http://r.jdshipin.com/Nr5jq
+TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
+TVB J2,http://120.84.96.89:808/hls/86/index.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
@@ -175,27 +180,33 @@ J2,http://120.84.96.89:808/hls/86/index.m3u8
 湖南娱乐,http://api2.52tb.xyz/info?id=563&token=20230218htjgzi
 湖南电影,http://api2.52tb.xyz/info?id=564&token=20230218htjgzi
 金鹰纪实,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226349/index.m3u8?servicetype=1
-金鹰纪实,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund
+金鹰纪实,http://api2.52tb.xyz/info?id=569&token=20230218htjgzi
 金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226413/index.m3u8?servicetype=1
-金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://api2.52tb.xyz/info?id=568&token=20230218htjgzi
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭新闻综合,http://api2.52tb.xyz/info?id=570&token=20230218htjgzi
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 🎬特色频道,#genre#
 求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
+求索纪录,http://[2409:8087:4402:20:1:1216:401:37]/wh7f454c46tw2826167099_-1510271315/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8?icpid=88888888&RTS=1684321495&from=1&hms_devid=18448&vqe=3
 求索科学,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226115/index.m3u8?servicetype=1
+求索科学,http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 求索动物,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226118/index.m3u8?servicetype=1
+求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 东方财经,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226327/index.m3u8?servicetype=1
 纪实人文,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226355/index.m3u8?servicetype=1
+纪实人文,http://[2409:8087:7001:20:3::7]/wh7f454c46tw3835608144_-878726743/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8?icpid=88888890&RTS=1684322505&from=20&hms_devid=8052&prioritypopid=20&online=1684322505&vqe=3
 欢笑剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226323/index.m3u8?servicetype=1
 都市剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226694/index.m3u8?servicetype=1
 动漫秀场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226325/index.m3u8?servicetype=1
+动漫秀场,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/index.m3u8
-NewTV金牌综艺,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225525/index.m3u8
+NewTV金牌综艺,http://39.134.136.205:6610/200000001898/460000089800010086/1.m3u8?IAS=&IASHttpSessionId=OTT1842420230517113024191915
 超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
 超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
 超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
