@@ -108,6 +108,8 @@ http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226429/index
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226420/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视IPV6",山东卫视
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226456/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视IPV6",山西卫视
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视IPV6",河南卫视
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视IPV6",河北卫视
