@@ -1,16 +1,6 @@
 {
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🍥多多20230504🍥",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
-    },
-    {
       "key": "t4桉佬",
       "name": "🍀┃豆瓣┃备用",
       "type": 4,
