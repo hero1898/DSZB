@@ -102,17 +102,6 @@
       "ext": "https://yydsys.top/duo/json/亲宝.json"
     },
     {
-      "key": "csp_阿里搜索",
-      "name": "🔎┃阿里┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
       "key": "csp_WoGG",
       "name": "💂‍┃玩偶┃原画",
       "type": 3,
