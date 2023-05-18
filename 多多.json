@@ -92,16 +92,6 @@
       "ext": "https://yydsys.top/duo/json/Nmys.json"
     },
     {
-      "key": "py_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "py_baby",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/baby.py"
-    },
-    {
       "key": "csp_XYQHiker_‍亲宝资源",
       "name": "🧗┃亲宝┃资源",
       "type": 3,
