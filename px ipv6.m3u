@@ -56,6 +56,10 @@ http://r.jdshipin.com/vSJvl
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1,tvg-id="" tvg-name="TVB J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",TVB J2 
 http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,tvg-id="" tvg-name="大爱1台" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png" group-title="港澳台",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="大爱2台" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png" group-title="港澳台",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="港澳台",澳门莲花 
 http://107.151.203.111:2209/135/hk.php?id=amlh
 
