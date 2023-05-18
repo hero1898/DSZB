@@ -92,6 +92,16 @@
       "ext": "https://yydsys.top/duo/json/Nmys.json"
     },
     {
+      "key": "py_baby",
+      "name": "👶┃宝宝┃合集",
+      "type": 3,
+      "api": "py_baby",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/baby.py"
+    },
+    {
       "key": "csp_XYQHiker_‍亲宝资源",
       "name": "🧗┃亲宝┃资源",
       "type": 3,
@@ -1994,4 +2004,3 @@
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "大聪明提醒：用前不刷新，老脸一阵红",
   "spider": "https://jihulab.com/duomv/duo/-/raw/main/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
-}
