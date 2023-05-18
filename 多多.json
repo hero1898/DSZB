@@ -1,5 +1,18 @@
+//接口内容来自网络资源以及数位业内大佬，为小白提供方便特意整理分享，如有冒犯，请联系删除。
+//解析大部分搜集自网上的一些免费解析，还有个人付费购买的解析，建议勿盗用，避免我更换key以后造成的尴尬画面。
+//为防止贩卖盗用，特加上了公众号信息以及免费字样，介意的话可以使用其他个人接口，感谢理解。
 {
   "sites": [
+    {
+      "key": "js豆瓣",
+      "name": "🍥多多20230504🍥",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
+    },
     {
       "key": "t4桉佬",
       "name": "🍀┃豆瓣┃备用",
@@ -82,6 +95,16 @@
       "ext": "https://yydsys.top/duo/json/Nmys.json"
     },
     {
+      "key": "py_baby",
+      "name": "👶┃宝宝┃合集",
+      "type": 3,
+      "api": "py_baby",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/Bili/baby.py"
+    },
+    {
       "key": "csp_XYQHiker_‍亲宝资源",
       "name": "🧗┃亲宝┃资源",
       "type": 3,
@@ -90,6 +113,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/亲宝.json"
+    },
+    {
+      "key": "csp_阿里搜索",
+      "name": "🔎┃阿里┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	  "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
       "key": "csp_WoGG",
