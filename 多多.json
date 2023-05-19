@@ -863,6 +863,46 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
+    },
+    {
+      "key":"学堂1",
+      "name":"🅱️儿童乐园",
+      "type":3,
+      "api":"csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://share.nite07.com/api/v3/file/source/16456/%E6%95%99%E8%82%B2.txt?sign=XPnAY-vON_7a_G70kXbcMpT7_af-5cceqRvK1lhZSCs%3D%3A0"
+    },
+    {
+      "key":"学堂2",
+      "name":"🅱️小学学习",
+      "type":3,
+      "api":"csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://dlj.bz/Ec3sbk"
+    },
+    {
+      "key":"学堂3",
+      "name":"🅱️初中学习",
+      "type":3,
+      "api":"csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://dlj.bz/DL64q9"
+    },
+    {
+      "key":"学堂4",
+      "name":"🅱️高中学习",
+      "type":3,
+      "api":"csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://dlj.bz/7FcWku"
     }
   ],
   "lives":[
