@@ -882,7 +882,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.github.com/sqspot/tac/main/MeowXB/少儿教育.json"
+      "ext": "http://raw.github.com/sqspot/tac/main/MeowXB/少儿教育.json"
     },
     {
       "key":"小学课堂",
@@ -926,7 +926,7 @@
     { "group":"redirect",
 	  "channels":[{
 	  "name":"live",
-	  "urls":["proxy://do=tvfix&type=list"]}]
+	  "urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]
 	  }
     ],
  "rules": [
