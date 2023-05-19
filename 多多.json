@@ -865,10 +865,10 @@
       "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
     },
     {
-      "key":"学堂1",
-      "name":"🅱️儿童乐园",
-      "type":3,
-      "api":"csp_Bili",
+      "key": "学堂1",
+      "name": "🅱️儿童乐园",
+      "type": 3,
+      "api": "csp_XYQBiu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
