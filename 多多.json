@@ -865,27 +865,27 @@
       "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
     },
     {
-      "key": "mtv_pc_少儿教育",
+      "key": "少儿教育",
       "name": "🅱️少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://mtv.weetai.cn/xpath/少儿教育.json"
+      "ext": "https://xn--m7r412advb92j21st65a.tk/json/少儿教育.json"
     },
     {
-      "key": "mtv_pc_幼儿乐园",
+      "key": "幼儿乐园",
       "name": "🅱️幼儿乐园",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://mtv.weetai.cn/xpath/幼儿乐园.json"
+      "ext": "https://xn--m7r412advb92j21st65a.tk/json/幼儿乐园.json"
     },
     {
-      "key":"mtv_pc_小学课堂",
+      "key":"小学课堂",
       "name":"🅱️小学课堂",
       "type":3,
       "api":"csp_Bili",
@@ -895,7 +895,7 @@
       "ext": "http://mtv.weetai.cn/xpath/小学课堂.json"
     },
     {
-      "key":"mtv_pc_初中课堂",
+      "key":"初中课堂",
       "name":"🅱️初中课堂",
       "type":3,
       "api":"csp_Bili",
@@ -905,7 +905,7 @@
       "ext": "http://mtv.weetai.cn/xpath/初中课堂.json"
     },
     {
-      "key":"mtv_pc_高中课堂",
+      "key":"高中课堂",
       "name":"🅱️高中课堂",
       "type":3,
       "api":"csp_Bili",
