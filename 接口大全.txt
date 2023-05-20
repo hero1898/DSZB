@@ -1,166 +1,4 @@
-https://yydsys.top/duo
-大聪明
-http://饭太硬.ga/tv
-饭太硬
-https://hutool.ml/tang
-唐三-暂停使用
-https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json
-巧技
-https://pastebin.com/raw/5NHaxyGR
-道长
-http://我不是.肥猫.love:63/接口禁止贩卖
-肥猫
-http://drpy.site/js1
-小雅js
-https://tvbox.cainisi.cf
-菜妮丝xBPQ
-http://home.jundie.top:81/top98.json
-俊于
-https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-南风XC
-https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json
-香雅情 XYQ
-https://github.moeyy.xyz/https://raw.github.com/52670576/tvbox/main/ysc.json
-运输车
-https://神器每日推送.tk/pz.json
-神器每日推送
-http://itvbox.cc/tvbox/云星日记/1.m3u8
-云星日记
-https://ghproxy.com/raw.github.com/FongMi/CatVodSpider/main/json/config.json
-FongMi
-https://ghproxy.com/raw.github.com/lm317379829/PyramidStore/pyramid/py.json
-霜辉月明py
-https://ghproxy.com/raw.github.com/gaotianliuyun/gao/master/js.json
-高山流云js
-https://raw.liucn.cc/box/xiaopingguo.json
-小苹果
-https://www.agit.ai/liucn/box/raw/branch/main/m.json
-老刘备
-https://raw.liucn.cc/box/m.json
-刘C
-https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json
-胖丫
-http://raw.github.com/kebedd69/TVbox-interface/main/甜蜜.json
-甜蜜dlgt7
-https://dxawi.github.io/0/0.json
-dxawi/github️
-https://download.kstore.space/download/2863/01.txt
-潇洒
-https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8
-D大
-https://www.agit.ai/n/b/raw/branch/a/b/c.json
-ImABC
-
 {
-
-    "urls": [
-
-     {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2&123",
-
-        "name": "👇欧歌维护选择下面线路👇",
-
-        "time": "主线路"
-
-    },
-
-    
-
-   {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-
-        "name": "💓爬虫线路💓 ",
-
-        "time": "主线路"
-
-    },
-
-  {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all&xl=&jar=all",
-
-        "name": "💓阿里4k推送TK线路💓 ",
-
-        "time": "主线路"
-
-    },
-
-  {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all2&xl=&jar=ou",
-
-        "name": "💚阿里tvbox/token.txt刷新💚",
-
-        "time": "主线路"
-
-    },
-
-  
-
- {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=&jar=js",
-
-        "name": "💛js线路💛",
-
-        "time": "主线路"
-
-    },
-
-     {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=",
-
-        "name": "🖤XBiu+XYQ线路🖤",
-
-        "time": "主线路"
-
-    },
-
-        {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=xBPQ&mz=xBPQ&xl=",
-
-        "name": "💙xBPQ线路💙✨",
-
-        "time": "主线路"
-
-    },
-
- 
-
-        {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&xl=&jar=py",
-
-        "name": "💚py线路💚",
-
-        "time": "主线路"
-
-    },
-
-   {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=a3&jar=a3&xl=",
-
-        "name": "💖Bilibili和a3网盘线路💖",
-
-        "time": "主线路"
-
-    },
-
- {
-
-        "url": "http://1.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=zb&xl=",
-
-        "name": "👇欧歌下面收集网络线路👇",
-
-        "time": "主线路"
-
-    },
-
         {
 
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
@@ -237,7 +75,7 @@ ImABC
 
         {
 
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://ghproxy.com/raw.github.com/lm317379829/PyramidStore/pyramid/py.json",
 
             "name": "🚀霜辉月明"
 
@@ -347,7 +185,7 @@ ImABC
 
         {
 
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://ghproxy.com/https://raw.github.com/tv-player/tvbox-line/main/tv/fj.json",
 
             "name": "💎一影视线路"
 
@@ -355,7 +193,7 @@ ImABC
 
         {
 
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://ghproxy.com/https://raw.github.com/chengxueli818913/maoTV/main/44.txt",
 
             "name": "💎佰欣园线路"
 
@@ -365,7 +203,7 @@ ImABC
 
         {
 
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://ghproxy.com/https://raw.github.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
 
             "name": "💎一木线路"
 
@@ -394,43 +232,6 @@ ImABC
             "name": "💎zzz1线路"
 
         }
-
-    
-
-    
-
-    ],
-
-    "vip": [
-
-       
-
-        
-
-          
-
-         
-
-       {
-
-        "url": "http://1.nxog.top/m/sapi.php?ou=%E6%AC%A7%E6%AD%8C",
-
-        "name": "😝-彩蛋随机线路-😝",
-
-        "time": "无名"
-
-    }
-
-    
-
-          
-
-          
-
-          
-
-          
-
     ]
 
 }
