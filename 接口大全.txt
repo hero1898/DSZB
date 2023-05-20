@@ -1,4 +1,5 @@
 {
+    "urls": [
         {
 
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
@@ -6,7 +7,6 @@
             "name": "🚀肥猫线路"
 
         }, 
-
         {
 
             "url": "https://weixine.net/ysc.json",
@@ -22,9 +22,6 @@
             "name": "🚀小胡"
 
         },  
-
-      
-
         {
 
             "url": "https://pastebin.com/raw/5NHaxyGR",
@@ -40,7 +37,6 @@
             "name": "🚀菜妮丝线路"
 
         },
-
         {
 
             "url": "http://饭太硬.ga/tv",
@@ -48,7 +44,6 @@
             "name": "🚀饭太硬线路"
 
         },
-
         {
 
             "url": "http://pandown.pro/tvbox/tvbox.json",
@@ -56,7 +51,6 @@
             "name": "🚀巧记线路"
 
         },
-
         {
 
             "url": "http://101.34.67.237/config/3",
@@ -64,7 +58,6 @@
             "name": "🚀小雅线路"
 
         },
-
         {
 
             "url": "http://home.jundie.top:81/top98.json",
@@ -72,7 +65,6 @@
             "name": "🚀俊佬线路"
 
         }, 
-
         {
 
             "url": "https://ghproxy.com/raw.github.com/lm317379829/PyramidStore/pyramid/py.json",
@@ -80,7 +72,6 @@
             "name": "🚀霜辉月明"
 
         },
-
         {
 
             "url": "http://dxawi.github.io/0/0.json",
@@ -88,9 +79,6 @@
             "name": "🚀dxawi0线路"
 
         },
-
-      
-
         {
 
             "url": "https://raw.liucn.cc/box/m.json",
@@ -98,9 +86,6 @@
             "name": "🚀老刘备线路"
 
         },
-
-  
-
         {
 
             "url": "http://52bsj.vip:98/cl",
@@ -108,9 +93,6 @@
             "name": "🐹月光宝盒"
 
         },
-
-         
-
         {
 
             "url": "https://download.kstore.space/download/2863/01.txt",
@@ -118,7 +100,6 @@
             "name": "🐹潇洒线路"
 
         },
-
         {
 
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
@@ -126,7 +107,6 @@
             "name": "🐹南风线路"
 
         },
-
         {
 
             "url": "http://52bsj.vip:98/wuai",
@@ -134,11 +114,6 @@
             "name": "🐹吾爱线路"
 
         },  
-
-  
-
-   
-
         {
 
             "url": "https://la.kstore.space/download/2883/0110.txt",
@@ -146,9 +121,6 @@
             "name": "🐹蚂蚁论坛线路"
 
         },
-
-    
-
         {
 
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
@@ -156,7 +128,6 @@
             "name": "🐹分享者线路"
 
         },
-
         {
 
             "url": "https://ju.binghe.ga/4.txt",
@@ -164,9 +135,6 @@
             "name": "🐹冰河线路"
 
         },  
-
-       
-
         {
 
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
@@ -174,7 +142,6 @@
             "name": "💎不良帅线路"
 
         },         
-
         {
 
             "url": "http://www.dmtv.ml/mao/single.json",
@@ -185,30 +152,25 @@
 
         {
 
-            "url": "https://ghproxy.com/https://raw.github.com/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://ghproxy.com/http://raw.github.com/tv-player/tvbox-line/main/tv/fj.json",
 
             "name": "💎一影视线路"
 
         },
-
         {
 
-            "url": "https://ghproxy.com/https://raw.github.com/chengxueli818913/maoTV/main/44.txt",
+            "url": "https://ghproxy.com/http://raw.github.com/chengxueli818913/maoTV/main/44.txt",
 
             "name": "💎佰欣园线路"
 
         },
-
-      
-
         {
 
-            "url": "https://ghproxy.com/https://raw.github.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://ghproxy.com/http://raw.github.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
 
             "name": "💎一木线路"
 
         },        
-
         {
 
             "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
@@ -216,7 +178,6 @@
             "name": "💎kvymin线路"
 
         },
-
         {
 
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
@@ -224,7 +185,6 @@
             "name": "💎agit/abc线路"
 
         },
-
         {
 
             "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
@@ -233,5 +193,4 @@
 
         }
     ]
-
 }
