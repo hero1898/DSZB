@@ -129,25 +129,6 @@
       "ext": "https://framagit.org/duomv/duo/-/raw/main/Bili/bili.json"
     },
     {
-      "key": "短视频聚合",
-      "name": "📱┃网红┃美女",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "👑┃直播┃合集",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "新片热播",
       "name": "🔷┃新片┃热播",
       "type": 1,
@@ -179,16 +160,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/Nmys.json"
-    },
-    {
-      "key": "csp_XYQHiker_‍亲宝资源",
-      "name": "🧗┃亲宝┃资源",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/亲宝.json"
     },
     {
       "key": "csp_XYQBiu_磁力熊",
@@ -286,16 +257,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_XYQHiker_‍优狐",
-      "name": "⛵️┃优狐┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/优狐.json"
     },
     {
       "key": "csp_AppMr",
@@ -539,16 +500,6 @@
       "ext": "https://www.6080dy3.com"
     },
     {
-      "key": "csp_555电影",
-      "name": "🐾┃三五┃电影",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-    {
       "key": "csp_XBPQ_无名",
       "name": "🌈┃无名┃小站",
       "type": 3,
@@ -599,15 +550,6 @@
       "ext": "https://yydsys.top/duo/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
-      "key": "csp_Cokemv",
-      "name": "🎀┃可乐┃影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_Auete",
       "name": "🐼┃Auet┃影视",
       "type": 3,
@@ -615,35 +557,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Btwtoo",
-      "name": "✌┃两个┃鼻涕",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "口袋影院",
-      "name": "👝┃口袋┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "花猫影视",
-      "name": "🐱┃花猫┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -823,7 +736,16 @@
 	  "quickSearch": 0,
 	  "filterable": 0,
 	  "ext": "https://yydsys.top/duo/json/抓饭直播.json"
-	},	
+	},
+    {
+      "key": "csp_Yj1211",
+      "name": "👑┃直播┃合集",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "js_哔哩直播",
       "name": "🅱️┃哔哩┃直播",
@@ -855,6 +777,16 @@
       "ext": "https://yydsys.top/duo/json/%E6%96%97%E9%B1%BC.json"
     },
     {
+      "key": "短视频聚合",
+      "name": "📱┃网红┃美女",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+    },
+    {
       "key": "网易CC",
       "name": "🐠┃网易┃CC",
       "type": 3,
@@ -863,6 +795,16 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
+    },
+    {
+      "key": "csp_XYQHiker_‍亲宝资源",
+      "name": "🧗┃亲宝┃资源",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/亲宝.json"
     },
     {
       "key": "幼儿乐园",
