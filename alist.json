@@ -1,0 +1,32 @@
+{
+  "drives": [
+    {
+      "name": "PX宝盒",
+      "server": "http://heropx1.dns.army:8088"
+    },
+    {
+      "name": "PX影视",
+      "server": "http://192.168.2.128:5244/"
+    },
+    {
+      "name": "网友分享",
+      "server": "https://a.sodaz.xyz"
+    },
+    {
+      "name": "杜比网盘",
+      "server": "https://dubi.tk"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro:5678"
+    }
+  ]
+}
