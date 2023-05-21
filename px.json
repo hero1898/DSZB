@@ -868,7 +868,7 @@
       "filterable": 0,
       "ext": "http://mtv.weetai.cn/xpath/高中课堂.json"
     },
-    {      "key": "csp_Alist1",
+    { "key": "csp_Alist",
       "name": "🅿Alist┃网盘",
       "type": 3,      
       "api": "csp_AList",      
