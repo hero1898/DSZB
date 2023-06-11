@@ -170,8 +170,6 @@ http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226327/index
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226325/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="26" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="特色",都市剧场
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226694/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="27" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="特色",卡酷少儿
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
 #EXTINF:-1,tvg-id="28" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="特色",求索动物
 http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226118/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="29" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="特色",求索纪录
