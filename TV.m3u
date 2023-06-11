@@ -20,23 +20,13 @@ CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/i
 💝港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰香港,http://tlive.fengshows.cn/live/0201phkhd.flv?txSecret=0cfb03c74630916ddd733e053b0d369d&txTime=6464c878
-星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
-翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 TVB J2,http://r.jdshipin.com/Nr5jq
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 🔆体育频道,#genre#
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
-五星体育,http://113.250.21.179/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=jinbaotiyuHD_7000
-精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 超级体育,http://[2409:8087:1a01:df::4013]/wh7f454c46tw1686337832_-306209778/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1684114197&from=1&hms_devid=132&vqe=3
-魅力足球,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226337/index.m3u8?servicetype=1
-风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
-快乐垂钓,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226326/index.m3u8?servicetype=1
-四海钓鱼,http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -110,21 +100,16 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-茶友,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
+茶频道,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 华数测试,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?blog.ntnas.top
 东方财经,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226327/index.m3u8?servicetype=1
 动漫秀场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226325/index.m3u8?servicetype=1
 都市剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226694/index.m3u8?servicetype=1
-卡酷少儿,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
 求索动物,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226118/index.m3u8?servicetype=1
 求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
 求索科学,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226115/index.m3u8?servicetype=1
 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 好莱坞电影台,https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
-超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 🐼IHOT,#genre#
 爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 爱科幻,http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
