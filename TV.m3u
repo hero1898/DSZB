@@ -23,12 +23,9 @@ CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/i
 凤凰香港,http://tlive.fengshows.cn/live/0201phkhd.flv?txSecret=0cfb03c74630916ddd733e053b0d369d&txTime=6464c878
 星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
 翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
-明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
-VIUTV,http://r.jdshipin.com/vSJvl
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 TVB J2,http://r.jdshipin.com/Nr5jq
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 🔆体育频道,#genre#
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
@@ -41,6 +38,7 @@ TVB J2,http://r.jdshipin.com/Nr5jq
 快乐垂钓,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226326/index.m3u8?servicetype=1
 四海钓鱼,http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -58,7 +56,7 @@ TVB J2,http://r.jdshipin.com/Nr5jq
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+海南卫视,http://[2409:8087:7002:20::2]/wh7f454c46tw1000921680_-1607323273/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?icpid=88888890&RTS=1686475744&from=20&ocs=2_2409:8087:7001:20:3::2_80&hms_devid=8126&online=1686475744&vqe=3
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -76,7 +74,11 @@ TVB J2,http://r.jdshipin.com/Nr5jq
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 西藏卫视,http://[2409:8087:7001:20:2::5]/wh7f454c46tw2900636300_2118031806/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?icpid=88888890&RTS=1686292960&from=20&hms_devid=7855&prioritypopid=20&online=1686292960&vqe=3
 厦门卫视,http://[2409:8087:7001:20:3::3]/wh7f454c46tw2119299458_-1894833209/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8?icpid=88888890&RTS=1686472567&from=20&hms_devid=8055&prioritypopid=20&online=1686472567&vqe=3
+山西卫视,http://[2409:8087:7002:20::2]/wh7f454c46tw4261658795_-1877511413/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?icpid=88888890&RTS=1686474710&from=20&ocs=2_2409:8087:7001:20:2::3_80&hms_devid=8126&online=1686474710&vqe=3
+陕西卫视,http://[2409:8087:7001:20:3::7]/wh7f454c46tw782167280_659396999/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8?icpid=88888890&RTS=1686475525&from=20&hms_devid=8052&prioritypopid=20&online=1686475525&vqe=3
+内蒙古卫视,http://[2409:8087:7001:20:3::3]/wh7f454c46tw479837603_967043673/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8?icpid=88888890&RTS=1686475223&from=20&hms_devid=8055&prioritypopid=20&online=1686475223&vqe=3
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+大湾区卫视,http://[2409:8087:7001:20:3::7]/wh7f454c46tw348423782_834586708/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?icpid=88888890&RTS=1686475091&from=20&hms_devid=8052&prioritypopid=20&online=1686475091&vqe=3
 ⚛️地方频道,#genre#
 湖南经视,http://api2.52tb.xyz/info?id=566&token=20230218htjgzi
 湖南都市,http://api2.52tb.xyz/info?id=567&token=20230218htjgzi
@@ -84,27 +86,9 @@ TVB J2,http://r.jdshipin.com/Nr5jq
 湖南国际,http://api2.52tb.xyz/info?id=562&token=20230218htjgzi
 湖南娱乐,http://api2.52tb.xyz/info?id=563&token=20230218htjgzi
 湖南电影,http://api2.52tb.xyz/info?id=564&token=20230218htjgzi
-金鹰纪实,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226349/index.m3u8?servicetype=1
-金鹰卡通,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226413/index.m3u8?servicetype=1
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 🎬特色频道,#genre#
-求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
-求索科学,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226115/index.m3u8?servicetype=1
-求索动物,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226118/index.m3u8?servicetype=1
-东方财经,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226327/index.m3u8?servicetype=1
-纪实人文,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226355/index.m3u8?servicetype=1
-欢笑剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226323/index.m3u8?servicetype=1
-都市剧场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226694/index.m3u8?servicetype=1
-动漫秀场,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226325/index.m3u8?servicetype=1
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-好莱坞电影台,https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
-超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -136,6 +120,11 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 求索纪录,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226114/index.m3u8?servicetype=1
 求索科学,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226115/index.m3u8?servicetype=1
 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+好莱坞电影台,https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
+超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
+超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 🐼IHOT,#genre#
 爱院线,http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 爱科幻,http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
