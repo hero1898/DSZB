@@ -40,7 +40,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231022/1.m3u8
 #EXTINF:-1,tvg-id="6" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231003/1.m3u8
 #EXTINF:-1,tvg-id="4" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="港澳台",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
+http://113.117.74.59:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="10" tvg-name="FOX新闻" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="港澳台",美国FOX新闻
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="1" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="港澳台",CNN
