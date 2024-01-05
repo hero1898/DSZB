@@ -263,7 +263,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/NEWTV超级综艺.png" group-title="NewTV频道",精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1,tvg-id="13" tvg-name="Love Nrture" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/LOVENATURE.png" group-title=""纪录片",Love Nrture
+#EXTINF:-1,tvg-id="13" tvg-name="Love Nrture" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/LOVENATURE.png" group-title="纪录片",Love Nrture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="纪录片",人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
