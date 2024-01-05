@@ -197,7 +197,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-
 #EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/IHOT3/IHOT3.jpg?1" group-title="iHOT频道",爱院线
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://drive.xinxin2021.tk/api/raw/?path=/iptv/tv/ihot/爱科学.png" group-title="iHOT频道",爱科学
