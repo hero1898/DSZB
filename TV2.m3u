@@ -86,8 +86,6 @@ https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 group-title="体育频道",爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 group-title="体育频道",深圳体育健康
-http://113.117.74.59:8081/hls/70/index.m3u8
-#EXTINF:-1 group-title="体育频道",深圳体育健康
 http://hls.ye23.vip/dl/sztv2211.php?id=sztyjk
 #EXTINF:-1 group-title="体育频道",美国红牛体育
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
@@ -366,7 +364,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 group-title="NewTV频道",NEWTV爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 group-title="NewTV频道",NEWTV精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 group-title="NewTV频道",NEWTV精品纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="NewTV频道",NEWTV超级电影
