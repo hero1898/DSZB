@@ -127,6 +127,8 @@ http://[2409:8087:7001:20:1000::89]:6610/000000001000/3000000010000002019/index.
 http://[2409:8087:7001:20:1000::84]:6610/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/咪咕体育.png" group-title="咪咕体育",咪咕体育 21
 http://[2409:8087:7001:20:1000::91]:6610/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/咪咕体育.png" group-title="咪咕体育",咪咕体育 22
+http://[2409:8087:7001:20:1000::94]:6610/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/咪咕体育.png" group-title="咪咕体育",咪咕综合
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://usercontent.githubfast.com/raw/wang987742/fanmingming/main/tv/咪咕体育.png" group-title="咪咕体育",咪咕足球
